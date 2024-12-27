@@ -1,0 +1,28 @@
+{
+  "users": [],
+  "products": [],
+  "contact": [],
+  "score": [],
+  "story": [],
+  "categories": [
+    {
+      "id": "SDscT",
+      "description": "Saç Bakım Ürünleri"
+    },
+    {
+      "id": "Sc02T",
+      "description": "Vücüt Yağ Kremleri"
+    },
+    {
+      "id": "2FG8v",
+      "description": "Parfümler"
+    },
+    {
+      "id": "VBnIo",
+      "description": "Makyaj Malzemeleri"
+    }
+  ],
+  "images": [
+      
+  ]
+}
